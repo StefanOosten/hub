@@ -4,13 +4,9 @@ HALLO 012345678909876543210
 sweet apples
 oranges
 kiwis
-<<<<<<< HEAD
-carrots
-hoi
-=======
 carrots
 >>>>>>> 5a8314bdcca198705a346c6f804095bb5b55e053
 
-12389124739235718924
->>>>>>> 21b680ab76bea587952c8de3ab7c15607252df87
-hoi
+
+
+change by SV
