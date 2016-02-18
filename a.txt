@@ -1,11 +1,8 @@
-<<<<<<< HEAD
-HALLO 012345678909876543210
-=======
+
 sweet apples
 oranges
 kiwis
 carrots
->>>>>>> 5a8314bdcca198705a346c6f804095bb5b55e053
 
 
 
